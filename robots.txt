@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ancheridia.github.io/sitemap.html.gz
+Sitemap: https://ancheridia.github.io/app/sitemap.html.gz
+Sitemap: https://ancheridia.github.io/assets/sitemap.html.gz
+Sitemap: https://ancheridia.github.io/css/sitemap.html.gz
+Sitemap: https://ancheridia.github.io/includes/sitemap.html.gz
+Sitemap: https://ancheridia.github.io/item/sitemap.html.gz
+Sitemap: https://ancheridia.github.io/src/sitemap.html.gz
